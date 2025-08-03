@@ -1,4 +1,7 @@
-# ffcompete
+i am Pankaj a student trying hard to make something impactfull
+this is my app
+# ffCompete
+
 An app where you can win by going into competitions
 THe basic  idea is to make pepole win through competetions and matches and earn some money
 as it  is a skill based platform any one can join and  earn through this 
