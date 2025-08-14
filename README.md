@@ -9,4 +9,4 @@ there are some major problems :   1. like hackers : how can be tackle them 2.and
 in the login:  players has to connect there  uid with there account so that they should 
 breakdown of 1 long match is this way : 70% to the winners and 25%to the platform 5% cashback to all the players
 in short match 80% to the winners and 20% to the platform
-hi
+hieir
